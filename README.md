@@ -29,7 +29,7 @@ Follow these steps to view the Spotify UI Clone on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourGitHubUsername/spotify-ui-clone.git
+   git clone https://github.com/Nikhilkumar2311/spotify-ui-clone.git
    ```
 2. Navigate to the project folder:
    ```bash
